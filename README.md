@@ -23,3 +23,4 @@ YOU NEED TO DO A CITIZEN.WAIT(TIME) WITH THE SAME TIME SPECIFIED
             AFTER EXECUTING THE PROGRESS BAR FUNCTION
    TO MAKE THE SCRIPT UNABLE TO RUN UNTIL THE BAR FINISHES UP
    ```
+![Orginal Fivem an_progressbar link](https://github.com/aymannajim/an_progBar)
