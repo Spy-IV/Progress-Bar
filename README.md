@@ -1,5 +1,5 @@
 ## A progress bar for CitizenIV converted from FiveM 
-
+![](https://user-images.githubusercontent.com/36258300/177007964-d6fea7d4-7705-4f2a-811d-5d723bbe9385.png)
 # How to use
 
 `exports.an_progBar:run(TIME,TEXT,OPTIONAL_COLOR)`
