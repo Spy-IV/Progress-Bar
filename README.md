@@ -17,3 +17,7 @@ exports.an_progBar:run(10,'Lockpicking','#E14127')
 Citizen.Wait(10000)
 -- code after the progress bar
 ```
+```                         PLEASE NOTE:
+YOU NEED TO DO A CITIZEN.WAIT(TIME) WITH THE SAME TIME SPECIFIED
+            AFTER EXECUTING THE PROGRESS BAR FUNCTION
+   TO MAKE THE SCRIPT UNABLE TO RUN UNTIL THE BAR FINISHES UP```
